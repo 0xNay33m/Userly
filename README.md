@@ -1,6 +1,7 @@
-# ⚡️ User Management CRUD App
+# ⚡️ Userly
 
-Welcome to the **User Management CRUD App** — a raw crud application for managing users.
+Meet Userly — a sleek and minimal User Management CRUD Application built for simplicity and speed.
+With Userly, you can Create, Read, Update, and Delete users effortlessly, making it the perfect starter project for learning CRUD operations and managing user data.
 
 ---
 
